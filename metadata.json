@@ -1,0 +1,6 @@
+{
+  "name": "PlotTea",
+  "description": "Sebuah aplikasi web pencatat tontonan (watchlist) interaktif untuk mengelola daftar tontonan, ulasan, dan rating film atau serial favorit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
