@@ -732,7 +732,7 @@ export default function App() {
                   </div>
                   <div>
                     <h1 className="text-xl font-sans-jakarta font-black tracking-wider text-white uppercase">Plot<span className="text-blue-500">Tea</span></h1>
-                    <p className="text-[9px] uppercase tracking-widest text-slate-400 font-bold">Watchlist Engine</p>
+                    <p className="text-[9px] uppercase tracking-widest text-slate-400 font-bold">Wasting time Engine</p>
                   </div>
                 </div>
                 {/* Close button for mobile slide-over */}
